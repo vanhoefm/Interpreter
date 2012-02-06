@@ -1,0 +1,2 @@
+/* Check halt statement */
+2+3; 4+6; halt; 2^20

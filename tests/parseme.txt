@@ -1,0 +1,21 @@
+/* Ik bevat geen fouten */
+a=0; b+=a/1; c*=a^(b %1)
+define f(a,b){ return a+b }
+if (a> 0)
+ b%=2 else 
+  if (b < 3)
+    while (b <= 5)
+      b++
+define g(a) 
+{
+return -a^8;
+}
+while (g(a) < 13 || a >= 21){
+  if (a == 34)
+   --a else 
+    if (a > 55){
+   c = a % b
+  } else
+   ++a }
+89-144*233+377/(610*987 % 1597)
+

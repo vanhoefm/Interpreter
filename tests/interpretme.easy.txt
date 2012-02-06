@@ -1,0 +1,24 @@
+c=1; 
+if ((o=2) > 4) m = 16 else 
+ p = i = 32; l = 64;
+
+128 + e - r;
+
+s=256;
+while ( i < 512){
+ s; 
+ h=1024
+ i *= p;
+}
+
+if ( n ){
+ e^t;  
+} else {
+  z = (o+a) % l;
+  s
+}
+
+define e(e,n){
+ auto z; e+e
+ return (e*e)/n -d;
+}

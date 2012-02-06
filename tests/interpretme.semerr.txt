@@ -1,0 +1,36 @@
+return 2
+
+if ( a < 2 )
+ break else
+ continue
+
+i=0;
+while (i < 2){
+ i++;
+ return /* he he */ 3
+}
+
+define f(a,b) {
+  if (a < b)
+   break;
+  return a+b;
+}
+
+i = j = 0
+while ( i < 5) {
+  while (j < 3)
+    i=j++;
+  break;
+}
+
+continue
+
+ return /* I'm
+nasty */ 7
+
+define f(a,a) {return a+a}
+
+define f(a,b) {
+ auto d,b
+ return d-b
+}

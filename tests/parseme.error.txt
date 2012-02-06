@@ -1,0 +1,26 @@
+a+b;+2-3 # error +
++5-7;a=11 # error +
+
+if (a > 13) a++;
+ else # error: if afgesloten met ;
+17^19; --a+; 23/29 # error ; 
+
+while( a < 31 )
+  a++
+c=(b=37%41); ---a; a^=43 # error -
+
+define define(a,b){ # error define
+return a/b
+} # error }
+
+define g(){
+}
+
+define f(){ 47+53 }; a # error ;
+f(); g()
+
+define h(){ # error over 2 lijnen
++98; # deze ook, +
+juist
+is fout # error fout
+} # error }

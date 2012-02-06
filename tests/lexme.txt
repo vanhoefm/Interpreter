@@ -1,0 +1,16 @@
+@  /**/ &# I play with comments
+
+/*/* Like this 
+*/ Hehe, I am not a comment */ # But, I am
+/**/ 
+# That was a small comment, and this one too:
+/***/ count
+/* I hope you don't 
+ get 
+confused
+
+with **line numbers** ;-)
+****/
+newlines # this is illegal:
+&$@
+/**\/*the end*\/*/ 
